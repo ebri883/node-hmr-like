@@ -1,0 +1,14 @@
+{
+  "name": "hmr-like",
+  "version": "1.0.0",
+  "description": "study case to create a hmr like application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebri Willyan",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: gray;
+
+  display: flex;
+  align-items: center;
+
+  min-height: 100dvh;
+}
+
+#send {
+  background-color: white;
+
+  padding: 10px;
+
+  border: none;
+}
+
+#chat {
+  background-color: black;
+
+  border-radius: 16px !important;
+  border: transparent !important;
+}
